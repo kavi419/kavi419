@@ -1,14 +1,9 @@
-<!-- Cool Header GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Header Banner">
+  <!-- Fixed Typing Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Kavindu!+%F0%9F%91%8B;Full-Stack+Developer+(MERN);Aspiring+DevOps+%26+Cloud+Engineer;IT+Undergraduate+%40+SLIIT" alt="Typing SVG" />
 </div>
 
 <br>
-
-<!-- Fixed Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=27F11C&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Kavindu;Full-Stack+Developer+(MERN);Aspiring+DevOps+%26+Cloud+Engineer;IT+Undergraduate+%40+SLIIT" alt="Typing SVG" />
-</div>
 
 <!-- Social Links & Profile Views -->
 <div align="center">
@@ -51,16 +46,6 @@
 
 <br><br>
 
-### 📊 GitHub Analytics
-
-<!-- Stats with New Dracula Theme to fix cache issues -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavi419&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavi419&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
 ### 🐍 Contribution Graph Snake
 
 <div align="center">
@@ -69,10 +54,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kavi419/kavi419/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kavi419/kavi419/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<br>
-    
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder=true" alt="Jokes Card" />
 </div>
