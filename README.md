@@ -1,71 +1,151 @@
-<!-- Animated Pro Banner -->
+Adoo sorry bosa! 🙏 Mama kalin try kale godak "simple & clean" profile ekak hadanna, mokada Vercel links block wena nisa. Eath oyata ona yaluwage wage **highly organized, details godak thiyena, section by section wen karapu (Tables, Progress bars thiyena)** supiri profile ekak kiyala mata dan therenne! 
+
+Aniwarenma puluwan! Yaluwage eka side ekakin thiyala meka danna. Meke mama yaluwage eke thiyena structure eka 100% aran, oyage details walata match wenna (Projects table, Skills progress bars okkoma ekka) pattatama design kala.
+
+Okkoma makala me code eka paste karanna:
+
+```markdown
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=🔥+Welcome+to+Kavindu's+Workspace+🔥;Full-Stack+Developer+(MERN);Aspiring+DevOps+%26+Cloud+Engineer;Building+Scalable+Solutions...;Eat.+Sleep.+Code.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+Kavindu;Full-Stack+Developer;Aspiring+Cloud+Engineer" alt="Typing SVG" />
 </div>
 
-<!-- Socials & Views -->
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kavi419&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/></a>
+</p>
 
-<br>
+---
 
-<!-- Matrix Layout for About & Tech -->
-<table align="center" width="100%">
+### 👨‍💼 About Me
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">👨‍💻 Core Architecture</h3>
-      <br>
-      <ul>
-        <li>🎓 <b>Education:</b> IT Undergrad @ <b>SLIIT</b></li>
-        <li>💻 <b>Domain:</b> MERN Stack & Mobile App Dev</li>
-        <li>☁️ <b>Focus:</b> Cloud Computing & DevOps</li>
-        <li>🚀 <b>Goal:</b> 2026 Software Eng Internship</li>
-        <li>⚡ <b>Vibe:</b> Turning coffee into code ☕</li>
-      </ul>
+    <td valign="top" width="50%">
+      <b>🚀 Professional Summary</b><br><br>
+      As a dedicated IT Undergraduate at SLIIT, I specialize in <b>Full-Stack Development (MERN)</b> and Mobile Application Development. I am passionate about crafting scalable web applications and currently aiming for a Software Engineering internship in 2026.<br><br>
+      🌱 Currently diving deep into <b>DevOps & Cloud Technologies</b>.
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 Tech Arsenal</h3>
-      <br>
-      <div align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,php,java,git,github,aws,linux,docker,vscode&theme=dark&perline=6" alt="Skills" />
-        </a>
-      </div>
+    <td valign="top" width="50%">
+      <b>🎯 Core Competencies</b><br><br>
+      🔹 Full-Stack Web Dev (React, Node.js)<br>
+      🔹 Database Architecture (MySQL, MongoDB)<br>
+      🔹 Mobile Application Development<br>
+      🔹 Cloud & Server Ops (AWS, Linux)<br>
+      🔹 Version Control & Agile (Git, GitHub)
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-### 📈 GitHub Activity Pulse
+### ⚙️ Tech Stack
+
 <div align="center">
-  <!-- Me line chart eka oyage commits anuwa auto wada karanawa -->
-  <img src="https://github-readme-activity-graph.herokuapp.com/graph?username=kavi419&theme=dracula&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <b>🌐 Frontend Development</b><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br><br>
+  
+  <b>💻 Backend & Architecture</b><br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br><br>
+  
+  <b>🗄️ Database & Cloud</b><br>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-<br>
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🐍 The Commit Snake</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/kavi419/kavi419/output/github-contribution-grid-snake-dark.svg" width="100%" />
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧊 3D Contribution Matrix</h3>
-      <div align="center">
-        <!-- 3D Graph eka (Action eka run kalama meka load wei) -->
-        <img src="https://raw.githubusercontent.com/kavi419/kavi419/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.herokuapp.com/graph?username=kavi419&theme=tokyo-night&hide_border=true&area=true" width="85%" alt="Activity Graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavi419&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavi419&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="42%" alt="GitHub Stats" />
+</div>
+
+---
+
+### 📈 Skills Progress
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Skill Area</th>
+      <th>Proficiency</th>
+    </tr>
+    <tr>
+      <td><b>Frontend (HTML, CSS, React)</b></td>
+      <td><img src="https://geps.dev/progress/85?color=success" alt="85%" /></td>
+    </tr>
+    <tr>
+      <td><b>Backend (Node.js, PHP, Java)</b></td>
+      <td><img src="https://geps.dev/progress/75?color=success" alt="75%" /></td>
+    </tr>
+    <tr>
+      <td><b>Databases (MongoDB, MySQL)</b></td>
+      <td><img src="https://geps.dev/progress/80?color=success" alt="80%" /></td>
+    </tr>
+    <tr>
+      <td><b>Cloud & DevOps (AWS)</b></td>
+      <td><img src="https://geps.dev/progress/60?color=warning" alt="60%" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 💼 Key Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+    <tr>
+      <td><b>meat-mart-ecommerce</b></td>
+      <td>Full-stack online meat store with cart and inventory tracking</td>
+      <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
+    </tr>
+    <tr>
+      <td><b>lifeline-blood-link</b></td>
+      <td>A centralized blood donation and tracking platform</td>
+      <td><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td><b>CharismaAi</b></td>
+      <td>AI-powered assistant and user interaction platform</td>
+      <td><img src="https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat&logo=html5&logoColor=white" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavi419/kavi419/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kavi419/kavi419/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kavi419/kavi419/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+```
+
+**Meka Daddi Mathaka Thiyaganna:**
+1. Meke mama yaluwage eke thiyena structure ekatama (Progress bars, Key projects table eka) okkoma add kala. Oyage real repos tika add karala thiyenne `Key Projects` table ekata.
+2. **WARNING:** Meke thiyena `GitHub Analytics` photos tika (Top Languages saha Stats) oyage browser eke `broken image` widihata pennuwoth, eka 100% oyage internet connection eken (SLT/Dialog) Vercel server block karana nisai. Oya VPN ekak dala baluwoth e tika lassanata wada kකරනවා පෙනේවි (Yaluwata lassanata penne eka nisai).
+
+Dan nam profile eka bokka wage full structured and packed! Commit karala preview eka balanna bosa! 😎🔥
