@@ -1,10 +1,3 @@
-Adoo sorry bosa! 🙏 Mama kalin try kale godak "simple & clean" profile ekak hadanna, mokada Vercel links block wena nisa. Eath oyata ona yaluwage wage **highly organized, details godak thiyena, section by section wen karapu (Tables, Progress bars thiyena)** supiri profile ekak kiyala mata dan therenne! 
-
-Aniwarenma puluwan! Yaluwage eka side ekakin thiyala meka danna. Meke mama yaluwage eke thiyena structure eka 100% aran, oyage details walata match wenna (Projects table, Skills progress bars okkoma ekka) pattatama design kala.
-
-Okkoma makala me code eka paste karanna:
-
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+Kavindu;Full-Stack+Developer;Aspiring+Cloud+Engineer" alt="Typing SVG" />
 </div>
@@ -142,10 +135,3 @@ Okkoma makala me code eka paste karanna:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kavi419/kavi419/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-```
-
-**Meka Daddi Mathaka Thiyaganna:**
-1. Meke mama yaluwage eke thiyena structure ekatama (Progress bars, Key projects table eka) okkoma add kala. Oyage real repos tika add karala thiyenne `Key Projects` table ekata.
-2. **WARNING:** Meke thiyena `GitHub Analytics` photos tika (Top Languages saha Stats) oyage browser eke `broken image` widihata pennuwoth, eka 100% oyage internet connection eken (SLT/Dialog) Vercel server block karana nisai. Oya VPN ekak dala baluwoth e tika lassanata wada kකරනවා පෙනේවි (Yaluwata lassanata penne eka nisai).
-
-Dan nam profile eka bokka wage full structured and packed! Commit karala preview eka balanna bosa! 😎🔥
